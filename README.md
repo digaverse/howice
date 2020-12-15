@@ -1,3 +1,3 @@
 # vars
 
-- ![Tests](https://github.com/howi-lib/vars/workflows/Tests/badge.svg)
+- ![Tests](https://github.com/mkungla/vars/workflows/Tests/badge.svg)

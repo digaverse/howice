@@ -1,3 +1,3 @@
-module github.com/howi-lib/vars
+module github.com/mkungla/vars
 
 go 1.14
