@@ -3,7 +3,7 @@ package vars_test
 import (
 	"testing"
 
-	"github.com/howi-lib/vars/v2"
+	"github.com/mkungla/vars/v2"
 )
 
 func TestNewValue(t *testing.T) {
